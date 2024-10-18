@@ -1,0 +1,48 @@
+body{
+	font-family: sans-serif;
+}
+
+.center_main{
+	margin: auto;
+	width: 75%;
+	padding: 10px;
+}
+
+.left{
+	margin: auto;
+	width: 75%;
+
+}
+
+.img_main{
+	margin: auto;
+	width: 75%;
+	background-color: lightgray;
+		
+}
+
+.conteiner{
+	margin-top: -15px;
+	width: 1100px;
+	height: 3px;
+	background-color: #9acd32;
+}
+
+#img{
+	margin-left: 120px;
+}
+
+footer{
+	background-color: #2f4f4f;
+	color: white
+}
+
+h1{
+	color: white;
+	background-color: #2f4f4f;
+	border-radius: 5px;
+}
+
+p{
+	text-align: justify;
+}
