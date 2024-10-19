@@ -9,32 +9,31 @@ body{
 }
 
 .left{
-	margin: auto;
-	width: 75%;
+	text-align: left;
+	
+}
 
+.center{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
 }
 
 .img_main{
 	margin: auto;
 	width: 75%;
 	background-color: lightgray;
-		
+	text-align: center;
+	font-family: serif;
 }
 
-.conteiner{
+.container{
 	margin-top: -15px;
 	width: 1100px;
 	height: 3px;
 	background-color: #9acd32;
-}
-
-#img{
-	margin-left: 120px;
-}
-
-footer{
-	background-color: #2f4f4f;
-	color: white
 }
 
 h1{
@@ -45,4 +44,9 @@ h1{
 
 p{
 	text-align: justify;
+}
+
+footer{
+	background-color: #2f4f4f;
+	color: white
 }
