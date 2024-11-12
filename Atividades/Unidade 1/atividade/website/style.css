@@ -8,22 +8,18 @@ body{
 	padding: 10px;
 }
 
-.left{
-	text-align: left;
-	
+.footerblocks{
+	display: flex;
+    justify-content: center;
 }
 
-.center{
-	text-align: center;
-}
-
-.right{
-	text-align: right;
+.footercontents{
+	display: inline-block;
+    margin: 20px 20px;
 }
 
 .img_main{
 	margin: auto;
-	width: 75%;
 	background-color: lightgray;
 	text-align: center;
 	font-family: serif;
@@ -32,6 +28,13 @@ body{
 .container{
 	margin-top: -15px;
 	width: 1100px;
+	height: 3px;
+	background-color: #9acd32;
+}
+
+.containerfooter{
+	margin-top: -15px;
+	width: 1460px;
 	height: 3px;
 	background-color: #9acd32;
 }
